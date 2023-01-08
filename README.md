@@ -14,7 +14,7 @@ source env/bin/activate
 pip3 install discogs_client pandas
 ```
 
-2. Obtain a Discogs API key by following the instructions [here](https://www.discogs.com/settings/developers)
+2. Obtain a Discogs API key [here](https://www.discogs.com/settings/developers)
 
 3. Download some cover art images by running the script with your API key and a CSV file containing the release information:
 
